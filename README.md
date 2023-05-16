@@ -9,4 +9,4 @@
 
 # Навыки
 - **English** Upper intermediate (B2);
-- **Hard-skills** Python (NLP, DS, ML), Go, Docker, Kubernetes, Gitlab CI/CD, SQL, C/C++, Linux, Power Point, Excel(VBA).
+- **Hard-skills** Python (NLP, DS, ML), Go, Docker, Kubernetes, Gitlab CI/CD, Linux, Power Point, SQL, C/C++, Excel(VBA).
