@@ -11,7 +11,5 @@
 - Тема ВКР: "Изучение зависимости эллиптического потока идентифицированных адронов от энергии сталкивающихся ядер в области работы ускорительных комплексов Nuclotron-NICA".
 
 # Навыки
-
-
 - **English** Upper intermediate (B2);
-- **Hard-skills** Python (NLP, DS, ML), Go, Docker, Kebernetes, Gitlab CI/CD, SQL, C/C++, Linux, Advanced MS office.
+- **Hard-skills** Python (NLP, DS, ML), Go, Docker, Kubernetes, Gitlab CI/CD, SQL, C/C++, Linux, Advanced MS office.
