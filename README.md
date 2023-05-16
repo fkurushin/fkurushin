@@ -20,7 +20,10 @@
 
 ### Wildberries
 ####  Data scientist, October 2022 - Current
-- Development of a script and code for processing search queries with null result. Development, testing and deployment of the API for this microservice
+- Development, testing and deployment an API microservice for processing search queries with null result, using go bindings for faiss.
+- Development of an algorithm for identifying missing and extra spaces: eac: 0.99, f1: 0.96, average query time: 5 ms,
+participation in the development of the golang service of this algorithm
+- Designed algorithms for evaluating the quality of error correction services
 
 ### Kept (ex-KPMG)
 #### Intern, Actuarial Calculations Group, May 2022 - Octover 2022
@@ -40,4 +43,4 @@ and component calculation was carried out, the probability of termination of ins
 
 # Skills
 - **English** Upper intermediate (B2)
-- **Hard-skills** Python (NLP, DS, ML), Go, Docker, Kubernetes, Gitlab CI/CD, Linux, Power Point, SQL, C/C++, Excel(VBA)
+- **Hard-skills** Python (NLP, DS, ML), Go, Docker, Kubernetes, Gitlab CI/CD, AWS S3, Linux, Power Point, SQL, C/C++, Excel(VBA)
