@@ -1,12 +1,12 @@
-# Образование
-#### Национальный Исследовательский Ядерный Университет "МИФИ"
-#### Август 2022 - Наст.
-- Высшая инжиниринговая школа, "Информационные системы и технологии".
+# Education
+#### National Research Nuclear University "MEPhI"
+#### August 2022 - Present.
+- Higher Engineering School, "Information Systems and Technologies".
 
-#### Национальный Исследовательский Ядерный Университет "МИФИ" 
-#### Август 2018 - Май 2022
-- Институт нанотехнологий в электронике, спинтронике и фотонике, "Прикладные математика и физика".
-
-# Навыки
+#### National Research Nuclear University "MEPhI" 
+#### August 2018 - May 2022
+- Institute of Nanotechnology in Electronics, Spintronics and Photonics, "Applied Mathematics and Physics".
+- 
+# Skills
 - **English** Upper intermediate (B2);
 - **Hard-skills** Python (NLP, DS, ML), Go, Docker, Kubernetes, Gitlab CI/CD, Linux, Power Point, SQL, C/C++, Excel(VBA).
