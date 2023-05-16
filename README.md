@@ -14,4 +14,4 @@
 
 
 - **English** Upper intermediate (B2);
-- **Hard-skills** Python (NLP, DS, ML), Go, Docker, Kebernetes, Gitlab CI/CD, SQL, C/C++, Linux, Advanced MS office;
+- **Hard-skills** Python (NLP, DS, ML), Go, Docker, Kebernetes, Gitlab CI/CD, SQL, C/C++, Linux, Advanced MS office.
