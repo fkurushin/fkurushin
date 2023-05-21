@@ -25,7 +25,7 @@
   - accuracy: 0.99
   - f1: 0.96
   - average query time: 5 ms
-participation in the development of the golang service of this algorithm
+- Participation in the development of the golang service of missing and extra spaces algorithm
 - Designed algorithms for evaluating the quality of error correction services
 
 ### Kept (ex-KPMG)
