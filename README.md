@@ -26,7 +26,7 @@ participation in the development of the golang service of this algorithm
 - Designed algorithms for evaluating the quality of error correction services
 
 ### Kept (ex-KPMG)
-#### Intern, Actuarial Calculations Group, May 2022 - Octover 2022
+#### Intern, Actuarial Calculations Group, May 2022 - October 2022
 - Study of IFRS 19 and insurance mathematics
 - Participation in two projects on the assessment of employee benefits: defined types of payments and actuarial assumptions, calculated
 obligations on pension payments, prepared reports
@@ -43,4 +43,4 @@ and component calculation was carried out, the probability of termination of ins
 
 # Skills
 - **English** Upper intermediate (B2)
-- **Hard-skills** Python (NLP, DS, ML), Go, Docker, Kubernetes, Gitlab CI/CD, AWS S3, Linux, Power Point, SQL, C/C++, Excel(VBA)
+- **Hard-skills** Python (NLP, DS, ML), Go, Docker, Kubernetes, Gitlab CI/CD, AWS S3, Linux, Power Point, SQL, C/C++, C#, Excel(VBA)
