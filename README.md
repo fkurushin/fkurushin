@@ -21,7 +21,10 @@
 ### Wildberries
 ####  Data scientist, October 2022 - Current
 - Development, testing and deployment an API microservice for processing search queries with null result, using go bindings for faiss.
-- Development of an algorithm for identifying missing and extra spaces: eac: 0.99, f1: 0.96, average query time: 5 ms,
+- Development of an algorithm for identifying missing and extra spaces: 
+ - accuracy: 0.99
+ - f1: 0.96
+ - average query time: 5 ms
 participation in the development of the golang service of this algorithm
 - Designed algorithms for evaluating the quality of error correction services
 
