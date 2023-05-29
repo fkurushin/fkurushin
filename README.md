@@ -46,4 +46,4 @@ and component calculation was carried out, the probability of termination of ins
 
 # Skills
 - **English** Upper intermediate (B2)
-- **Hard-skills** Python (NLP, DS, ML), Go, Docker, Kubernetes, Gitlab CI/CD, AWS S3, Linux, Power Point, SQL, C/C++, C#, Excel(VBA)
+- **Hard-skills** Python (NLP, DS, ML, FastAPI), Go, Docker, Kubernetes, Gitlab CI/CD, AWS S3, Linux, Power Point, SQL, C/C++, C#, Excel(VBA)
