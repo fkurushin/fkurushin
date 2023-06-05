@@ -2,10 +2,9 @@
 #### National Research Nuclear University "MEPhI"
 #### August 2022 - Present.
 - Higher Engineering School, "Information Systems and Technologies".
-
-#### National Research Nuclear University "MEPhI" 
 #### August 2018 - May 2022
 - Institute of Nanotechnology in Electronics, Spintronics and Photonics, "Applied Mathematics and Physics".
+
 
 # Work experience
 ### ASE
