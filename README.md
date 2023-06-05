@@ -1,3 +1,5 @@
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fkurushin&langs_count=8)](https://github.com/fkurushin/github-readme-stats)
+ -->
 # Education
 `National Research Nuclear University "MEPhI"`
 - Higher Engineering School, "Information Systems and Technologies", **August 2022 - Current.**
