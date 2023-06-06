@@ -17,7 +17,7 @@
 - Maintenance of project documentation 
 - Interviewing people to the team
 
-### Wildberries
+### WB
 ####  Data scientist, October 2022 - Current
 - Development, testing and deployment an API microservice for processing search queries with null result, using go bindings for faiss.
 - Development of an algorithm for identifying missing and extra spaces: 
