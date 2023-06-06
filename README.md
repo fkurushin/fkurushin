@@ -3,7 +3,7 @@
   
   ## Work:
   <p align="center">
-      <img src="https://skillicons.dev/icons?i=python,golang,docker,kubernetes,git,aws,postman,fastapi&perline=3" />
+      <img src="https://skillicons.dev/icons?i=python,golang,docker,kubernetes,git,aws,postman,fastapi,grafana&perline=3" />
   </p>
     
   ## Education:
