@@ -12,6 +12,5 @@
   </p>
 
 ## Top Langs:
-<p align="center">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fkurushin)](https://github.com/anuraghazra/github-readme-stats)
-</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fkurushin)](https://github.com/anuraghazra/github-readme-stats)
+
