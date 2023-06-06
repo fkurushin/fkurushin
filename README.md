@@ -6,11 +6,12 @@
 
   
   ## Work:
-    <p align="center">
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=python,golang,docker,kubernetes,git,aws,postman&perline=3" />
-      </a>
-    </p>
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=python,golang,docker,kubernetes,git,aws,postman&perline=3" />
+    </a>
+  </p>
+    
   ## Education:
   <p align="center">
     <a href="https://skillicons.dev">
