@@ -1,8 +1,7 @@
 ## Описание:
 
 Есть код на го, использующий [faiss](https://github.com/DataIntelligenceCrew/go-faiss), то есть под капотом c++. Мне необходимо по крону совершать определенные действия с `faiss index`: скачать и обработать данные, обучить на этих данных index, затем обновить файлы новым индексом. График потребления памяти выглядит следующим образом:  
-
-![alt text](https://github.com/fkurushin/fkurushin/blob/master/photo_2023-06-07%2014.20.29.jpeg)
+![alt text](https://github.com/fkurushin/fkurushin/blob/master/photo_2023-06-07%2014.53.12.jpeg)
 
 Изучение pprof и gc: все освобождается, но память не возвращается в ОС. 
 
@@ -17,7 +16,9 @@ _Вывод:_ [Крон](https://github.com/robfig/cron) запсукает пр
 
 ## Решение, которое мне подошло:
 
-  - использование `index.Delete()` - не решило проблему до конца
+  - использование `index.Delete()` - не решило проблему до конца, но стало выглядеть лучше
+![alt text](https://github.com/fkurushin/fkurushin/blob/master/photo_2023-06-07%2014.20.29.jpeg)
+
   - 
 
 ## Обзор статей в интернете по этой проблеме:
