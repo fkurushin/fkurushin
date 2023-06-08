@@ -22,12 +22,12 @@ _Гипотеза:_ Проблема заключается в том, что с
 
 ## Решение, которое мне подошло:
 
-  - использование `index.Delete()` - не решило проблему до конца, но стало выглядеть лучше:
+  - **Использование `index.Delete()`** - не решило проблему до конца, но стало выглядеть лучше:
 
 
 ![alt text](https://github.com/fkurushin/fkurushin/blob/master/photo_2023-06-07%2014.20.29.jpeg)
 
-  - Использование jemalloс: Cделал fork [go-faiss](https://github.com/DataIntelligenceCrew/go-faiss), добавил туда `#cgo LDFLAGS: -ljemalloc`, создал тег, скачал, настроил переменные окружения: 
+  - **Использование jemalloс**: Cделал fork [go-faiss](https://github.com/DataIntelligenceCrew/go-faiss), добавил туда `#cgo LDFLAGS: -ljemalloc`, создал тег, скачал, настроил переменные окружения: 
 ```
 # command-line-arguments
 /opt/homebrew/Cellar/go/1.19.5/libexec/pkg/tool/darwin_arm64/link: running /opt/homebrew/opt/llvm/bin/clang failed: exit status 1
@@ -39,11 +39,12 @@ Undefined symbols for architecture arm64:
 ld: symbol(s) not found for architecture arm64
 clang-16: error: linker command failed with exit code 1 (use -v to see invocation)
 ```
-- Со оригинпльным [go-faiss](https://github.com/DataIntelligenceCrew/go-faiss) добавление в Dockerfile
+- **Со оригинальным [go-faiss](https://github.com/DataIntelligenceCrew/go-faiss)** добавление в Dockerfile
 ```
   ENV LD_PRELOAD=/usr/lib/x86_64-linux-gnu/libjemalloc.so
   ENV CGO_LDFLAGS="-ljemalloc"
 ```
+
 
 ## Обзор статей в интернете по этой проблеме:
 
