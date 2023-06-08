@@ -35,100 +35,19 @@ Undefined symbols for architecture arm64:
   "_faiss_IDSelectorBatch_new", referenced from:
       __cgo_907c18e046ea_Cfunc_faiss_IDSelectorBatch_new in 000011.o
      (maybe you meant: __cgo_907c18e046ea_Cfunc_faiss_IDSelectorBatch_new)
-  "_faiss_IDSelectorRange_new", referenced from:
-      __cgo_907c18e046ea_Cfunc_faiss_IDSelectorRange_new in 000011.o
-     (maybe you meant: __cgo_907c18e046ea_Cfunc_faiss_IDSelectorRange_new)
-  "_faiss_IDSelector_free", referenced from:
-      __cgo_907c18e046ea_Cfunc_faiss_IDSelector_free in 000011.o
-     (maybe you meant: __cgo_907c18e046ea_Cfunc_faiss_IDSelector_free)
-  "_faiss_IndexFlat_cast", referenced from:
-      __cgo_907c18e046ea_Cfunc_faiss_IndexFlat_cast in 000009.o
-     (maybe you meant: __cgo_907c18e046ea_Cfunc_faiss_IndexFlat_cast)
-  "_faiss_IndexFlat_new_with", referenced from:
-      __cgo_907c18e046ea_Cfunc_faiss_IndexFlat_new_with in 000009.o
-     (maybe you meant: __cgo_907c18e046ea_Cfunc_faiss_IndexFlat_new_with)
-  "_faiss_IndexFlat_xb", referenced from:
-      __cgo_907c18e046ea_Cfunc_faiss_IndexFlat_xb in 000009.o
-     (maybe you meant: __cgo_907c18e046ea_Cfunc_faiss_IndexFlat_xb)
-  "_faiss_Index_add", referenced from:
-      __cgo_907c18e046ea_Cfunc_faiss_Index_add in 000008.o
-     (maybe you meant: __cgo_907c18e046ea_Cfunc_faiss_Index_add_with_ids, __cgo_907c18e046ea_Cfunc_faiss_Index_add )
-  "_faiss_Index_add_with_ids", referenced from:
-      __cgo_907c18e046ea_Cfunc_faiss_Index_add_with_ids in 000008.o
-     (maybe you meant: __cgo_907c18e046ea_Cfunc_faiss_Index_add_with_ids)
-  "_faiss_Index_d", referenced from:
-      __cgo_907c18e046ea_Cfunc_faiss_Index_d in 000008.o
-     (maybe you meant: __cgo_907c18e046ea_Cfunc_faiss_Index_d)
-  "_faiss_Index_free", referenced from:
-      __cgo_907c18e046ea_Cfunc_faiss_Index_free in 000008.o
-     (maybe you meant: __cgo_907c18e046ea_Cfunc_faiss_Index_free)
-  "_faiss_Index_is_trained", referenced from:
-      __cgo_907c18e046ea_Cfunc_faiss_Index_is_trained in 000008.o
-     (maybe you meant: __cgo_907c18e046ea_Cfunc_faiss_Index_is_trained)
-  "_faiss_Index_metric_type", referenced from:
-      __cgo_907c18e046ea_Cfunc_faiss_Index_metric_type in 000008.o
-     (maybe you meant: __cgo_907c18e046ea_Cfunc_faiss_Index_metric_type)
-  "_faiss_Index_ntotal", referenced from:
-      __cgo_907c18e046ea_Cfunc_faiss_Index_ntotal in 000008.o
-     (maybe you meant: __cgo_907c18e046ea_Cfunc_faiss_Index_ntotal)
-  "_faiss_Index_range_search", referenced from:
-      __cgo_907c18e046ea_Cfunc_faiss_Index_range_search in 000008.o
-     (maybe you meant: __cgo_907c18e046ea_Cfunc_faiss_Index_range_search)
-  "_faiss_Index_remove_ids", referenced from:
-      __cgo_907c18e046ea_Cfunc_faiss_Index_remove_ids in 000008.o
-     (maybe you meant: __cgo_907c18e046ea_Cfunc_faiss_Index_remove_ids)
-  "_faiss_Index_reset", referenced from:
-      __cgo_907c18e046ea_Cfunc_faiss_Index_reset in 000008.o
-     (maybe you meant: __cgo_907c18e046ea_Cfunc_faiss_Index_reset)
-  "_faiss_Index_search", referenced from:
-      __cgo_907c18e046ea_Cfunc_faiss_Index_search in 000008.o
-     (maybe you meant: __cgo_907c18e046ea_Cfunc_faiss_Index_search)
-  "_faiss_Index_train", referenced from:
-      __cgo_907c18e046ea_Cfunc_faiss_Index_train in 000008.o
-     (maybe you meant: __cgo_907c18e046ea_Cfunc_faiss_Index_train)
-  "_faiss_ParameterSpace_free", referenced from:
-      __cgo_907c18e046ea_Cfunc_faiss_ParameterSpace_free in 000006.o
-     (maybe you meant: __cgo_907c18e046ea_Cfunc_faiss_ParameterSpace_free)
-  "_faiss_ParameterSpace_new", referenced from:
-      __cgo_907c18e046ea_Cfunc_faiss_ParameterSpace_new in 000006.o
-     (maybe you meant: __cgo_907c18e046ea_Cfunc_faiss_ParameterSpace_new)
-  "_faiss_ParameterSpace_set_index_parameter", referenced from:
-      __cgo_907c18e046ea_Cfunc_faiss_ParameterSpace_set_index_parameter in 000006.o
-     (maybe you meant: __cgo_907c18e046ea_Cfunc_faiss_ParameterSpace_set_index_parameter)
-  "_faiss_RangeSearchResult_free", referenced from:
-      __cgo_907c18e046ea_Cfunc_faiss_RangeSearchResult_free in 000008.o
-     (maybe you meant: __cgo_907c18e046ea_Cfunc_faiss_RangeSearchResult_free)
-  "_faiss_RangeSearchResult_labels", referenced from:
-      __cgo_907c18e046ea_Cfunc_faiss_RangeSearchResult_labels in 000008.o
-     (maybe you meant: __cgo_907c18e046ea_Cfunc_faiss_RangeSearchResult_labels)
-  "_faiss_RangeSearchResult_lims", referenced from:
-      __cgo_907c18e046ea_Cfunc_faiss_RangeSearchResult_lims in 000008.o
-     (maybe you meant: __cgo_907c18e046ea_Cfunc_faiss_RangeSearchResult_lims)
-  "_faiss_RangeSearchResult_new", referenced from:
-      __cgo_907c18e046ea_Cfunc_faiss_RangeSearchResult_new in 000008.o
-     (maybe you meant: __cgo_907c18e046ea_Cfunc_faiss_RangeSearchResult_new)
-  "_faiss_RangeSearchResult_nq", referenced from:
-      __cgo_907c18e046ea_Cfunc_faiss_RangeSearchResult_nq in 000008.o
-     (maybe you meant: __cgo_907c18e046ea_Cfunc_faiss_RangeSearchResult_nq)
-  "_faiss_get_last_error", referenced from:
-      __cgo_907c18e046ea_Cfunc_faiss_get_last_error in 000007.o
-     (maybe you meant: __cgo_907c18e046ea_Cfunc_faiss_get_last_error)
-  "_faiss_index_factory", referenced from:
-      __cgo_907c18e046ea_Cfunc_faiss_index_factory in 000008.o
-     (maybe you meant: __cgo_907c18e046ea_Cfunc_faiss_index_factory)
-  "_faiss_read_index_fname", referenced from:
-      __cgo_907c18e046ea_Cfunc_faiss_read_index_fname in 000010.o
-     (maybe you meant: __cgo_907c18e046ea_Cfunc_faiss_read_index_fname)
-  "_faiss_write_index_fname", referenced from:
-      __cgo_907c18e046ea_Cfunc_faiss_write_index_fname in 000010.o
-     (maybe you meant: __cgo_907c18e046ea_Cfunc_faiss_write_index_fname)
+...some similar ouput
 ld: symbol(s) not found for architecture arm64
 clang-16: error: linker command failed with exit code 1 (use -v to see invocation)
+```
+- Со оригинпльным [go-faiss](https://github.com/DataIntelligenceCrew/go-faiss) добавление в Dockerfile
+```
+  ENV LD_PRELOAD=/usr/lib/x86_64-linux-gnu/libjemalloc.so
+  ENV CGO_LDFLAGS="-ljemalloc"
 ```
 
 ## Обзор статей в интернете по этой проблеме:
 
-В настоящее время я читаю много статей в Интернете о проблеме, с которой я столкнулся в myjob: утечка памяти в приложении gaoling, вот несколько примеров:
+В настоящее время я читаю много статей в Интернете о проблеме, с которой я столкнулся во время поиска ошибки утечка памяти в приложении golang, вот несколько примеров:
 1. https://www.freecodecamp.org/news/how-i-investigated-memory-leaks-in-go-using-pprof-on-a-large-codebase-4bec4325e192/
 2. https://www.nylas.com/blog/finding-memory-leak-in-go-service-dev/
 3. https://dev.to/googlecloud/finding-and-fixing-memory-leaks-in-go-1k1h
