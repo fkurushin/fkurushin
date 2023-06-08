@@ -44,7 +44,7 @@ clang-16: error: linker command failed with exit code 1 (use -v to see invocatio
   ENV LD_PRELOAD=/usr/lib/x86_64-linux-gnu/libjemalloc.so
   ENV CGO_LDFLAGS="-ljemalloc"
 ```
-![alt text]([https://github.com/fkurushin/fkurushin](https://github.com/fkurushin/fkurushin/blob/master/Screenshot%202023-06-08%20at%2015.44.45.png))
+![alt text](https://github.com/fkurushin/fkurushin/blob/master/Screenshot%202023-06-08%20at%2015.44.45.png)
 
 
 ## Обзор статей в интернете по этой проблеме:
