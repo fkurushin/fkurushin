@@ -20,7 +20,7 @@ _Вывод:_ [Крон](https://github.com/robfig/cron) запсукает пр
 
 _Гипотеза:_ Проблема заключается в том, что с-шный код запсукаемый в отдельных горутинах блокирует память и не делится ей с остальными горутинами. Нужно сделать так, чтобы `free` сразу отдавал память в ОС.
 
-## Решение, которое мне подошло:
+## Решения:
 
   - **Использование `index.Delete()`** - не решило проблему до конца, но стало выглядеть лучше:
 
@@ -39,11 +39,12 @@ Undefined symbols for architecture arm64:
 ld: symbol(s) not found for architecture arm64
 clang-16: error: linker command failed with exit code 1 (use -v to see invocation)
 ```
-- **Со оригинальным [go-faiss](https://github.com/DataIntelligenceCrew/go-faiss)** добавление в Dockerfile
+- **С оригинальным [go-faiss](https://github.com/DataIntelligenceCrew/go-faiss)** добавление в Dockerfile - стало хуже
 ```
   ENV LD_PRELOAD=/usr/lib/x86_64-linux-gnu/libjemalloc.so
   ENV CGO_LDFLAGS="-ljemalloc"
 ```
+![alt text]([https://github.com/fkurushin/fkurushin](https://github.com/fkurushin/fkurushin/blob/master/Screenshot%202023-06-08%20at%2015.44.45.png))
 
 
 ## Обзор статей в интернете по этой проблеме:
