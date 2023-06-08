@@ -27,7 +27,7 @@ _Гипотеза:_ Проблема заключается в том, что с
 
 ![alt text](https://github.com/fkurushin/fkurushin/blob/master/photo_2023-06-07%2014.20.29.jpeg)
 
-  - **Использование jemalloс**: Cделал fork [go-faiss](https://github.com/DataIntelligenceCrew/go-faiss), добавил туда `#cgo LDFLAGS: -ljemalloc`, создал тег, скачал, настроил переменные окружения: 
+  - **Использование jemalloс**: Cделал fork [go-faiss](https://github.com/DataIntelligenceCrew/go-faiss), добавил туда `#cgo LDFLAGS: -ljemalloc`, создал тег, скачал, настроил переменные окружения (build падает): 
 ```
 # command-line-arguments
 /opt/homebrew/Cellar/go/1.19.5/libexec/pkg/tool/darwin_arm64/link: running /opt/homebrew/opt/llvm/bin/clang failed: exit status 1
