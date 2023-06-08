@@ -3,12 +3,12 @@
   
   ## Work:
   <p align="center">
-      <img src="https://skillicons.dev/icons?i=python,golang,docker,kubernetes,git,aws,postman,fastapi,grafana&perline=3" />
+      <img src="https://skillicons.dev/icons?i=python,golang,docker,kubernetes,git,aws,postman,fastapi,grafana&perline=5" />
   </p>
     
   ## Education:
   <p align="center">
-      <img src="https://skillicons.dev/icons?i=c,linux,bash,cs,cpp,dotnet,latex,sqlite,&perline=3" />
+      <img src="https://skillicons.dev/icons?i=c,linux,bash,cs,cpp,dotnet,latex,sqlite,&perline=5" />
   </p>
 
 ## Top Langs:
