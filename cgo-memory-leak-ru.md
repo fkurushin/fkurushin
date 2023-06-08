@@ -27,7 +27,7 @@ _Гипотеза:_ Проблема заключается в том, что с
 
 ![alt text](https://github.com/fkurushin/fkurushin/blob/master/photo_2023-06-07%2014.20.29.jpeg)
 
-  - **Использование jemalloс**: Cделал fork [go-faiss](https://github.com/DataIntelligenceCrew/go-faiss), добавил туда `#cgo LDFLAGS: -ljemalloc`, создал тег, скачал, настроил переменные окружения (build падает): 
+  - **Использование jemalloс**: Cделал fork [go-faiss](https://github.com/DataIntelligenceCrew/go-faiss), добавил туда `#cgo LDFLAGS: -ljemalloc`, создал тег `v0.0.1`, скачал, настроил переменные окружения (build падает): 
 ```
 # command-line-arguments
 /opt/homebrew/Cellar/go/1.19.5/libexec/pkg/tool/darwin_arm64/link: running /opt/homebrew/opt/llvm/bin/clang failed: exit status 1
@@ -45,6 +45,8 @@ clang-16: error: linker command failed with exit code 1 (use -v to see invocatio
   ENV CGO_LDFLAGS="-ljemalloc"
 ```
 ![alt text](https://github.com/fkurushin/fkurushin/blob/master/Screenshot%202023-06-08%20at%2015.44.45.png)
+
+ - **Использование jemalloс**: Cделал fork [go-faiss](https://github.com/DataIntelligenceCrew/go-faiss), добавил туда `#cgo LDFLAGS: -ljemalloc -lfaiss_c`, создал тег `v0.0.2`: 
 
 
 ## Обзор статей в интернете по этой проблеме:
