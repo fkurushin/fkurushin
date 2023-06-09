@@ -46,7 +46,7 @@ clang-16: error: linker command failed with exit code 1 (use -v to see invocatio
 ```
 ![alt text](https://github.com/fkurushin/fkurushin/blob/master/Screenshot%202023-06-08%20at%2015.44.45.png)
 
- - **Использование jemalloс**: Cделал fork [go-faiss](https://github.com/DataIntelligenceCrew/go-faiss), добавил туда `#cgo LDFLAGS: -ljemalloc -lfaiss_c`, создал тег `v0.0.2`: 
+ - **Использование jemalloс**: Cделал fork [go-faiss](https://github.com/DataIntelligenceCrew/go-faiss), добавил туда `#cgo LDFLAGS: -ljemalloc -lfaiss_c`, создал тег `v0.0.2` - Картина аналонгичная предыдущей, немного почему-то память расет из-за моей реализации go-faiss, но ненмного меньше потребление памяти из-за `jemalloc`, но все еще памят не возвращается к первоначальному состоянию (хотя бы примено). 
 
 
 ## Обзор статей в интернете по этой проблеме:
