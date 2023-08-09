@@ -9,7 +9,7 @@
     
   ## Education:
   <p align="center">
-      <img src="https://skillicons.dev/icons?i=c,linux,bash,cs,cpp,dotnet,latex,sqlite,&perline=5" />
+      <img src="https://skillicons.dev/icons?i=c,linux,bash,cs,cpp,dotnet,latex,sqlite,flask&perline=5" />
   </p>
 <!-- 
 ## Top Langs:
