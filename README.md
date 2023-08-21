@@ -11,12 +11,17 @@
   <p align="center">
       <img src="https://skillicons.dev/icons?i=c,linux,bash,cs,cpp,dotnet,latex,sqlite,flask&perline=5" />
   </p>
-<!-- 
+
 ## Top Langs:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fkurushin)](https://github.com/anuraghazra/github-readme-stats)
- -->
+
 <!-- 
 https://leetcode.com/fkurushin/
 [https://stackoverflow.com](https://stackoverflow.com/users/15842779/fedor)https://stackoverflow.com/users/15842779/fedor
 https://datascience.stackexchange.com/users/151011/Фёдор-Курушин
  -->
+
+## Insights:
+- Classification model to predict if word has error
+- Web application for speech training
+- Web application for schedule buisiness
