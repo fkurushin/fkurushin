@@ -15,6 +15,8 @@
 ## Top Langs:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fkurushin)](https://github.com/anuraghazra/github-readme-stats)
 
+## GitHub stats:
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fkurushin&show_icons=true&theme=transparent)
 <!-- 
 https://leetcode.com/fkurushin/
 [https://stackoverflow.com](https://stackoverflow.com/users/15842779/fedor)https://stackoverflow.com/users/15842779/fedor
