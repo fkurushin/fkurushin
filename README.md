@@ -25,7 +25,7 @@
 
 ## Contact.me
 
-- [stackoverflow]https://stackoverflow.com/users/15842779/fedor
-- [stack-datascience]https://datascience.stackexchange.com/users/151011/Фёдор-Курушин
-- [kaggle]https://www.kaggle.com/fedorkurushin
-- [leetcode]https://leetcode.com/fkurushin/
+- [stackoverflow](https://stackoverflow.com/users/15842779/fedor)
+- [stack-datascience](https://datascience.stackexchange.com/users/151011/Фёдор-Курушин)
+- [kaggle](https://www.kaggle.com/fedorkurushin)
+- [leetcode](https://leetcode.com/fkurushin/)
