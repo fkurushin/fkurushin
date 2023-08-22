@@ -17,14 +17,15 @@
 
 ## GitHub stats:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fkurushin&show_icons=true&theme=transparent)
-<!-- 
-
-https://leetcode.com/fkurushin/
-[https://stackoverflow.com](https://stackoverflow.com/users/15842779/fedor)https://stackoverflow.com/users/15842779/fedor
-https://datascience.stackexchange.com/users/151011/Фёдор-Курушин
- -->
 
 ## Insights:
 - Classification model to predict if word has error
 - Web application for speech training
 - Web application for schedule buisiness
+
+## Contact.me
+
+[stackoverflow](https://stackoverflow.com/users/15842779/fedor)https://stackoverflow.com/users/15842779/fedor
+[stack-datascience]https://datascience.stackexchange.com/users/151011/Фёдор-Курушин
+[kaggle]https://www.kaggle.com/fedorkurushin
+[leetcode]https://leetcode.com/fkurushin/
