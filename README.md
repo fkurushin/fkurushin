@@ -17,6 +17,7 @@
 
 ## GitHub stats:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fkurushin&show_icons=true&theme=transparent)
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=fkurushin)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Insights:
 - Classification model to predict if word has error
