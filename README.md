@@ -13,7 +13,7 @@
 
 ## Education
 - Bachelor of **Applied Mathematics and Physics** at **MEPhI**. _Study of the dependence of the [elliptical flow](https://github.com/fkurushin/Flow) of identified hadrons on the energy of colliding nuclei in the field of operation of the Nucleotron-NICA accelerator complexe._
-- Right now I am studying for a master's degree in information systems and technologies
+- Right now I am studying for a master's degree in **Information systems and technologies** also at **MEPhI**
 
 
 ## Top Langs
