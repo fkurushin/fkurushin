@@ -1,9 +1,7 @@
 <!-- <h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Daniil</a>  -->
-<h1 align="center">Hi there, I'm Fedor</a> 
+<h1 align="center">Hi there, I'm Fedor :star_struck:</a> 
 
 ## About.me
-
-**Hi, there! I'am Fedor** :star_struck:
 - NLP developer, machine learning engineer :robot:
 - Web development enthusiast :spider_web:
 - Passionate about sports, especially rugby :rugby_football: and running :runner: 
