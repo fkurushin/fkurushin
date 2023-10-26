@@ -8,7 +8,7 @@
 
 ## Skills
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=python,golang,docker,kubernetes,git,aws,cpp,grafana&perline=7" />
+    <img src="https://skillicons.dev/icons?i=python,golang,docker,kubernetes,git,aws,cpp,grafana&perline=4" />
 </p>
 
 ## Education
