@@ -17,7 +17,7 @@
 
 
 ## Top Langs
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fkurushin)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fkurushin&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## GitHub stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fkurushin&show_icons=true&theme=transparent)
