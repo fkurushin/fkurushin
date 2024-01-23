@@ -1,5 +1,5 @@
 <!-- <h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Daniil</a>  -->
-<h1 align="center">Hi there, I'm Fedor :star_struck:</a> 
+<h1 align="center">Hi there, I'm Fedor :skull:</a> 
 
 ## About.me
 - NLP developer, machine learning engineer :robot:
