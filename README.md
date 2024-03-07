@@ -4,7 +4,6 @@
 ## About.me
 - NLP developer, machine learning engineer :robot:
 - Web development enthusiast :spider_web:
-- Passionate about sports, especially rugby :rugby_football: and running :runner: 
 
 ## Skills
 <p align="center">
@@ -23,7 +22,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fkurushin&show_icons=true&theme=transparent)
 
 
-## Insights
+<!-- ## Insights
 - Classification model to predict if word has error
 - Web application for speech training
 - Web application for schedule buisiness
@@ -33,3 +32,4 @@
 - [stack-datascience](https://datascience.stackexchange.com/users/151011/Фёдор-Курушин)
 - [kaggle](https://www.kaggle.com/fedorkurushin)
 - [leetcode](https://leetcode.com/fkurushin/)
+-->
