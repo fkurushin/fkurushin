@@ -4,7 +4,7 @@
 ## About.me
 - NLP developer, machine learning engineer :robot:
 - Web development enthusiast :spider_web:
-- Interested in crisis predicitons and looking for collaboration
+- Interested in crisis predicitons and looking for collaboration :volcano:
 
 ## Skills
 <p align="center">
