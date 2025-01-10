@@ -1,12 +1,12 @@
 <!-- <h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Daniil</a>  -->
 <h1 align="center">:skull::skull::skull:</a> 
 
-## About.me
+### About.me
 - NLP developer, machine learning engineer :robot:
 - Web development enthusiast :spider_web:
 - Interested in crisis predicitons and looking for collaboration :volcano:
 
-## Skills
+<!-- ## Skills
 <p align="center">
     <img src="https://skillicons.dev/icons?i=python,golang,docker,kubernetes,git,aws,cpp,grafana&perline=4" />
 </p>
